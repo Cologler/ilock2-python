@@ -1,2 +1,3 @@
-# ilock2-python
- a alternative to ilock
+# ilock2
+
+a alternative to [ilock](https://github.com/symonsoft/ilock).
